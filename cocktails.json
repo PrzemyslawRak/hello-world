@@ -1,5 +1,5 @@
-{
-  "id": 1,
+[
+  {
   "name": "The Hugo Spritz",
   "description": "A light, refreshing aperitivo perfect for hot summer days.",
   "ingredients": [
@@ -16,3 +16,4 @@
     "Briefly stir and enjoy immediately!"
   ]
 }
+]
