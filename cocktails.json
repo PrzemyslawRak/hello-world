@@ -18,9 +18,9 @@
   ]
 },
     {
-  "id": 2,
-  "name": "Long island iced tea",
-  "description": "A Long Island iced tea is a type of alcoholic mixed drink typically made with vodka, tequila, light rum, triple sec, gin, and a splash of cola, which gives the drink the same amber hue as its namesake.",
+  "id": 3,
+  "name": "Iced tea",
+  "description": "Summertime is an ideal time to serve the Long Island Iced Tea, because its taste is reminiscent of iced tea even though there's no tea in it at all. ",
   "ingredients": [
     "1 oz St. Germain",
     "3-4 fresh Mint Leaves",
@@ -36,9 +36,9 @@
   ]
 },
     {
-  "id": 3,
-  "name": "Iced tea",
-  "description": "Summertime is an ideal time to serve the Long Island Iced Tea, because its taste is reminiscent of iced tea even though there's no tea in it at all. ",
+  "id": 2,
+  "name": "Long island iced tea",
+  "description": "A Long Island iced tea is a type of alcoholic mixed drink typically made with vodka, tequila, light rum, triple sec, gin, and a splash of cola, which gives the drink the same amber hue as its namesake.",
   "ingredients": [
     "1 oz St. Germain",
     "3-4 fresh Mint Leaves",
