@@ -17,4 +17,22 @@
     "Briefly stir and enjoy immediately!"
   ]
 }
+    {
+  "id": 2,
+  "name": "Long island iced tea",
+  "description": "A Long Island iced tea is a type of alcoholic mixed drink typically made with vodka, tequila, light rum, triple sec, gin, and a splash of cola, which gives the drink the same amber hue as its namesake.",
+  "ingredients": [
+    "1 oz St. Germain",
+    "3-4 fresh Mint Leaves",
+    "1 small slice lime",
+    "4-5 ounces Prosecco",
+    "chilled ice"
+  ],
+  "preparation": [
+    "Fill a wine glass with ice",
+    "Pour one ounce of St. Germain directly over the ice and then add a few mint leaves and a slice of lime.",
+    "Top off the glass with 4-5 ounces of chilled Prosecco.",
+    "Briefly stir and enjoy immediately!"
+  ]
+}
 ]
