@@ -37,8 +37,8 @@
 },
     {
   "id": 3,
-  "name": "Long island iced tea",
-  "description": "A Long Island iced tea is a type of alcoholic mixed drink typically made with vodka, tequila, light rum, triple sec, gin, and a splash of cola, which gives the drink the same amber hue as its namesake.",
+  "name": "Mojito",
+  "description": "Mojito is a traditional Cuban highball. ts combination of sweetness, citrus, and herbaceous mint flavors is intended to complement the rum, and has made the mojito a popular summer drink.",
   "ingredients": [
     "1 oz St. Germain",
     "3-4 fresh Mint Leaves",
@@ -55,8 +55,8 @@
 },
     {
   "id": 4,
-  "name": "Long island iced tea",
-  "description": "A Long Island iced tea is a type of alcoholic mixed drink typically made with vodka, tequila, light rum, triple sec, gin, and a splash of cola, which gives the drink the same amber hue as its namesake.",
+  "name": "Daiquiri",
+  "description": "Daiquiri is a family of cocktails whose main ingredients are rum, citrus juice, and sugar or other sweetener. The daiquiri is one of the six basic drinks listed in David A. Embury's classic The Fine Art of Mixing Drinks, which also lists some variations.",
   "ingredients": [
     "1 oz St. Germain",
     "3-4 fresh Mint Leaves",
